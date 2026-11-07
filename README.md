@@ -12,7 +12,7 @@
 ![Status](https://img.shields.io/badge/Status-Deployed%20on%20Streamlit%20Cloud-brightgreen)
 
 **Live App:** [Streamlit Dashboard](https://customer-360-revenue-intelligence-4r8ryklwgjkwcdhrpzmf3v.streamlit.app)  
-**GitHub Repo:** [customer-360-revenue-intelligence](https://github.com/Mukesh0416/CustomerIQ-Analytics)
+**GitHub Repo:** [CustomerIQ-Analytics](https://github.com/Mukesh0416/CustomerIQ-Analytics)
 
 
 ---
